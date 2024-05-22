@@ -1,0 +1,1 @@
+<?phpreturn [    'db' => [        'host' => 'localhost',        'dbname' => 'link_shortener',        'user' => 'root',        'password' => 'ffaxriddinoff'    ]];

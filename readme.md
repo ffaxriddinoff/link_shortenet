@@ -1,0 +1,1 @@
+# <center>Link shorter app</center>### Requirements of the project1. `php 8.2`2. `mysql database 'link_shortener'`### Run the project1. `set configs to config.php`2. `php scripts/init_db.php`3. `php -S localhost:8000`
